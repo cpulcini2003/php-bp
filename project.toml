@@ -1,2 +1,2 @@
 [_]
-BP_PHP_WEB_DIR = "./htdocs"
+BP_PHP_WEB_DIR = htdocs
