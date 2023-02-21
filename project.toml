@@ -1,2 +1,3 @@
-[_]
-BP_PHP_WEB_DIR = htdocs
+[[io.buildpacks.build.env]]
+name = "BP_PHP_WEB_DIR"
+value = "-tdocs"
