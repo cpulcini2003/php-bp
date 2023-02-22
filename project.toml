@@ -3,11 +3,6 @@ id = "io.buildpacks.php-bp"
 version = "0.1"
 schema-version = "0.2"
 
-[io.buildpacks]
-include = [
-    "htdocs/*"
-]
-
 [[io.buildpacks.build.env]]
 name = "BP_PHP_WEB_DIR"
 value = "htdocs"
