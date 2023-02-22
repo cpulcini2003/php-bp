@@ -13,4 +13,4 @@ value = "httpd"
 
 [[io.buildpacks.build.env]]
 name="BP_PHP_VERSION"
-value = "8.0.0"
+value = "8.0.25"
